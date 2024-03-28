@@ -17,7 +17,7 @@ Este proyecto no va a acabar nunca. Incluso si quieres participar el año que vi
 - Para algunas bases, el repositorio de [jaennova de Kotlin](https://github.com/jaennova/kotlin), donde vienen algunas bases con explicación Y EJERCICIOS (muy importante, pues lo aprendido hay que ponerlo en práctica)
 - Los recursos que se vayan pasando por el grupo de estudio del server (se irán complementando aquí, pero poder verlos en primera persona es un puntazo. No dudéis en uniros)
 
-
-## IMPORTANTE: NO ES UNA COMPETICIÓN
-QUEREMOS DEJAR CLARO QUE ESTO NO ES UNA COMPETICIÓN. PUEDES ESTUDIAR CUANDO TE CONVENGA DURANTE AL MENOS 1 HORA AL DÍA. AVANZA A TU PROPIO RITMO, SIN PRESIONES.
-NO TODOS APRENDEMOS DE LA MISMA MANERA, ASÍ QUE NO TE COMPARES CON OTROS. VE POCO A POCO Y APÓYATE EN TUS COMPAÑEROS Y GRUPOS DE ESTUDIO.
+> .[!IMPORTANT]# 
+>NO ES UNA COMPETICIÓN
+>QUEREMOS DEJAR CLARO QUE ESTO NO ES UNA COMPETICIÓN. PUEDES ESTUDIAR CUANDO TE CONVENGA DURANTE AL MENOS 1 HORA AL DÍA. AVANZA A TU PROPIO RITMO, SIN PRESIONES.
+>NO TODOS APRENDEMOS DE LA MISMA MANERA, ASÍ QUE NO TE COMPARES CON OTROS. VE POCO A POCO Y APÓYATE EN TUS COMPAÑEROS Y GRUPOS DE ESTUDIO.
