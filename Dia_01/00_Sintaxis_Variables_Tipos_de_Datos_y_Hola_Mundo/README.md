@@ -1,3 +1,9 @@
+# #00 SINTAXIS, VARIABLES, TIPOS DE DATOS Y HOLA MUNDO
+> #### Dificultad: Fácil | Publicación: 26/12/23 | Corrección: 02/01/24
+
+## Ejercicio
+
+```
 /*
  * ¿Preparad@ para aprender o repasar el lenguaje de programación que tú quieras?
  * - Recuerda que todas las instrucciones de participación están en el
@@ -21,49 +27,9 @@
  * ¿Fácil? No te preocupes, recuerda que esta es una ruta de estudio y
  * debemos comenzar por el principio.
  */
+```
+#### Tienes toda la información extendida sobre el roadmap de retos de programación en **[retosdeprogramacion.com/roadmap](https://retosdeprogramacion.com/roadmap)**.
 
-// FIRST POINT
+Sigue las **[instrucciones](../../README.md)**, consulta las correcciones y aporta la tuya propia utilizando el lenguaje de programación que quieras.
 
-// https://kotlinlang.org/
-
-
-// SECOND POINT
-
-// Comment in one line
-
-/*
-* Multiple Lines
-* Comments
-*/
-
-// THIRD POINT
-fun main() {
-
-    val myFistVal = 1
-    var myFirstVar = 2
-
-// FOURTH POINT
-
-    // Types
-    val aByte: Byte = 127
-    val aShort: Short = 32767
-    val aInt: Int = 2147483647
-    val aLong: Long = 9223372036854775807
-    val aFloat = 1.11111111f
-    val aDouble = 1.1111111111111110
-    val myTrue = true
-    val myFalse = false
-    val boolNull: Boolean? = null
-    val aChar = 'a'
-    val aString = "(°-°)"
-    val anArray = arrayOf("a", "b", "c")
-
-    //  Non Negative
-    var nonNegativeByte : UByte = 1U
-    var nonNegativeShort : UShort = 2U
-    var nonNegativeInt : UInt = 3U
-    var nonNegativeLong : ULong = 4UL
-
-// FIFTH POINT
-    println("Hello Kotlin")
-}
+> Recuerda que cada semana se publica un nuevo ejercicio y se corrige el de la semana anterior en directo desde **[Twitch](https://twitch.tv/mouredev)**. Tienes el horario en la sección "eventos" del servidor de **[Discord](https://discord.gg/mouredev)**.
